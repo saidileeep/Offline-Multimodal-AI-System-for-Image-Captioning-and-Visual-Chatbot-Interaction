@@ -1,0 +1,30 @@
+# -------- Backend --------
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+
+# -------- Image --------
+pillow==10.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# -------- PyTorch CPU --------
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+torchaudio==2.1.2+cpu
+
+# -------- Detection --------
+ultralytics==8.1.0
+
+# -------- Captioning --------
+transformers==4.37.2
+sentencepiece==0.1.99
+accelerate==0.26.1
+
+# -------- Color --------
+scikit-learn==1.4.0
+scipy==1.11.4
+
+# -------- Utils --------
+tqdm==4.66.1
+requests==2.31.0

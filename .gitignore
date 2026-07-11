@@ -1,0 +1,12 @@
+venv/
+backend/venv/
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+
+*.pt
+*.pth
+models/
+backend/models/
